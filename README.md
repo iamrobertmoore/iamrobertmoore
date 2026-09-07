@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rob 👋</h1>
+<h1 align="center">Hi, I'm Robert 👋</h1>
 
 <p align="center">
 Head of Delivery at <a href="https://nillion.com">Nillion</a> · I run delivery by day and build private-AI and agent tooling by night.<br/>
