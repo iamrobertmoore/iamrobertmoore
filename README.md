@@ -13,7 +13,8 @@ Most of what is here shipped in 2026, solo, and is live somewhere you can instal
 ---
 
 - 🧩 **Building** n8n nodes, attestation checkers and agents that can touch money safely
-- 🏆 **3rd of 190** at KeeperHub's *Agents Onchain* and **4th of 100+** at Kiro's *Ready, Spec, Ship* (2026). The KeeperHub node is now their official n8n integration
+- 🏆 **Winner, Best Use of TabPFN** at DEV's *Hacktoberfest Weekend Challenge* with [Race Card](https://github.com/iamrobertmoore/race-card), which predicts your IRONMAN 70.3 race day from your own training, on your laptop ([write-up](https://dev.to/iamrobertmoore/my-mate-wants-a-sub-5-703-before-recommending-one-i-made-an-open-model-predict-79-of-my-old-race-4kcp))
+- 🏅 **3rd of 190** at KeeperHub's *Agents Onchain* and **4th of 100+** at Kiro's *Ready, Spec, Ship* (2026). The KeeperHub node is now their official n8n integration
 - ✅ **Two n8n-verified community nodes** live on n8n Cloud, both published with signed provenance
 - 🔐 **privateredact.app** and its Chrome extension: AI-powered redaction where the AI runs in a hardware-attested enclave and your file never leaves your browser
 - 🛠 Delivery lead at Nillion (private computation, private AI and encrypted markets), before that Input Output (the company behind Cardano) through its growth to a top-tier blockchain, and before that a decade at digital agencies (AKQA, OgilvyOne, Havas) delivering platforms for global brands
