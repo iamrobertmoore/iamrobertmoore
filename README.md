@@ -12,12 +12,20 @@ Most of what is here shipped in 2026, solo, and is live somewhere you can instal
 
 ---
 
-- 🧩 **Building** n8n nodes, attestation checkers and agents that can touch money safely
-- 🏆 **Winner, Best Use of TabPFN** at DEV's *Hacktoberfest Weekend Challenge* with [Race Card](https://github.com/iamrobertmoore/race-card), which predicts your IRONMAN 70.3 race day from your own training, on your laptop ([write-up](https://dev.to/iamrobertmoore/my-mate-wants-a-sub-5-703-before-recommending-one-i-made-an-open-model-predict-79-of-my-old-race-4kcp))
-- 🏅 **3rd of 190** at KeeperHub's *Agents Onchain* and **4th of 100+** at Kiro's *Ready, Spec, Ship* (2026). The KeeperHub node is now their official n8n integration
-- ✅ **Two n8n-verified community nodes** live on n8n Cloud, both published with signed provenance
-- 🔐 **privateredact.app** and its Chrome extension: AI-powered redaction where the AI runs in a hardware-attested enclave and your file never leaves your browser
 - 🛠 Delivery lead at Nillion (private computation, private AI and encrypted markets), before that Input Output (the company behind Cardano) through its growth to a top-tier blockchain, and before that a decade at digital agencies (AKQA, OgilvyOne, Havas) delivering platforms for global brands
+- 🧩 **Building** n8n nodes, attestation checkers and agents that can touch money safely
+
+## Things I've built
+
+- **[n8n-nodes-keeperhub](https://github.com/iamrobertmoore/n8n-nodes-keeperhub)**: KeeperHub's node for n8n, now their official n8n integration. One of my **two n8n-verified community nodes** live on n8n Cloud, both published with signed provenance
+- **[driftnode](https://github.com/iamrobertmoore/driftnode)**: turns a vendor's prose API docs into a publishable n8n node, with a conformance test that fails CI when the API drifts
+- **[Tariff Desk](https://github.com/iamrobertmoore/tariff-desk)**: describe what you make and get the 10-digit US customs code your parcel needs. Built for my own Etsy shop
+- **[Race Card](https://github.com/iamrobertmoore/race-card)**: predicts your IRONMAN 70.3 race day from your own training, on your laptop ([write-up](https://dev.to/iamrobertmoore/my-mate-wants-a-sub-5-703-before-recommending-one-i-made-an-open-model-predict-79-of-my-old-race-4kcp))
+- **[Second Opinion](https://github.com/iamrobertmoore/second-opinion-paybox)**: before your agent buys a prediction, it pays a cent for a second opinion. Live in the PayBox plugin marketplace
+- **[Plumbline](https://github.com/iamrobertmoore/plumbline)**: checks your test plan is still true by breaking the code to see if the tests notice
+- 🔐 **privateredact.app** and its Chrome extension: AI-powered redaction where the AI runs in a hardware-attested enclave and your file never leaves your browser
+
+**Recognition:** Winner, Best Use of TabPFN (DEV, Race Card) · 3rd of 190 (KeeperHub, Agents Onchain) · 4th of 100+ (Kiro, Ready, Spec, Ship) · one of 13 finalists (PayBox, Second Opinion)
 
 ## Stack
 
