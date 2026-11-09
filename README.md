@@ -33,11 +33,15 @@ Most of what is here shipped in 2026, solo, and is live somewhere you can instal
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/Ethereum%20%2F%20EVM-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Ethereum">
-  <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=flat" alt="Convex">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare Pages">
+  <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" alt="Render">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/AMD%20SEV--SNP%20%2F%20TEE-ED1C24?style=flat&logo=amd&logoColor=white" alt="TEE">
 </p>
